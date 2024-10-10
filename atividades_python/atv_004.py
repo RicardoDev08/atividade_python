@@ -1,0 +1,1 @@
+#algoritmo que receba 10 numeros e exiba a soma dos numeros pares

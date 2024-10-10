@@ -1,0 +1,1 @@
+#algoritmo de ordenação de uma lista de numeros de forma crescente

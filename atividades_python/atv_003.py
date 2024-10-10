@@ -1,0 +1,1 @@
+#função para verificar se uma palavra da frase é um palindromo

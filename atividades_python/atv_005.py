@@ -1,0 +1,1 @@
+#função para verificar se um numero é primo

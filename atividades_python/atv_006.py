@@ -1,0 +1,1 @@
+#uma função que mostre os n primeiros termos de uma sequencia de fibonacci, sendo n informado pelo usuario 

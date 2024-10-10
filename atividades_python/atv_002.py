@@ -1,0 +1,1 @@
+#mostrar a tabuada de um numero informado pelo usuario
