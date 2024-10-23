@@ -6,7 +6,8 @@ class Usuario():
         self.lista_livros = []
     def pegar_emprestado(self,livro):    
         if len (self.lista_livros) == self.MAX_QUANTIDADE:
-#class Livro():
+ #continuação
+class Livro():
     def __init__(self,titulo,autor,genero,cod_livro):  # métodos emprestimo,cadastro
         self.status = 'Disponível'
         self.titulo = titulo
